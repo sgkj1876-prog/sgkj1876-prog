@@ -1,0 +1,6 @@
+{
+  "name": "APK Sentinel",
+  "description": "Professional Android APK Static Analysis & Security Intelligence application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
